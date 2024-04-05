@@ -495,7 +495,7 @@ about section
 }
 
 .about-section .about-img .social-links a::after {
-  border-radius: 50%;
+  border-radius: 25%;
 }
 
 .about-section .about-info {
