@@ -258,7 +258,7 @@ HEADER
   text-transform: uppercase;
 }
 
-.header .arrow-btn {
+.header .menu-btn {
   height: 40px;
   width: 40px;
   border-radius: 50%;
@@ -269,7 +269,7 @@ HEADER
   transition: all 0.3s ease;
 }
 
-.header .arrow-btn:after {
+.header .menu-btn:after {
   border-radius: 50%;
 }
 
