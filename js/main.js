@@ -20,7 +20,7 @@ let words = '';
     txtIndex = 0;
   }
 
-  setTimeout(ngetik, 350);
+  setTimeout(ngetik, 250);
 })();
 
 // Menu navigasi
