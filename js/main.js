@@ -25,7 +25,7 @@ let words = '';
 
 // Menu navigasi
 (() => {
-  const arrowBtn = document.querySelector('.arrow-btn'),
+  const arrowBtn = document.querySelector('.menu-btn'),
     navMenu = document.querySelector('.nav-menu'),
     closeNavBtn = navMenu.querySelector('.close-nav-menu');
 
