@@ -48,7 +48,7 @@ let words = '';
     }, 300);
   }
 
-  // Melampirkan penangan acara ke dokumen
+  // Melampirkan event ke dokumen
   document.addEventListener('click', (event) => {
     if (event.target.classList.contains('link-item')) {
       if (event.target.hash !== '') {
