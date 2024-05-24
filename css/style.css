@@ -46,11 +46,8 @@ global
 }
 
 ::selection {
-  color: var(--bg-black-50);
-}
-
-::-moz-selection {
-  color: var(--bg-black-50);
+  background-color: #bbb;
+  color: #fff;
 }
 
 body {
@@ -583,11 +580,13 @@ gallery section
   padding: 10px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .gallery-section .gallery-item-inner {
   padding: 15px;
   border-radius: 5px;
+  justify-content: center;
 }
 
 .gallery-section .gallery-item-img img {
